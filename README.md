@@ -1,2 +1,4 @@
 # AEOLUS-SmartAPI
-API to query FAERS Drug-Outcome stats
+API to query AEOLUS database which is derived from FAERS database.
+
+
