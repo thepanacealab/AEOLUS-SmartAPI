@@ -6,6 +6,7 @@ Authors: [Juan M. Banda](http://jmbanda.com/)
 [Cynthia Khan](www.linkedin.com/in/khancynthia)
 
 Available at (temporary location): 
+
 Documentation (temporary location): 
 
 ## Project Goals
