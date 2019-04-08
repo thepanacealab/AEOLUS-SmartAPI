@@ -3,7 +3,7 @@ Project: Build a [smartAPI](http://smart-api.info/website/) for a Spontaneus Rep
 
 Authors: [Juan M. Banda](http://jmbanda.com/)
 
-[Cynthia Khan](www.linkedin.com/in/khancynthia)
+         [Cynthia Khan](www.linkedin.com/in/khancynthia)
 
 Available at (temporary location): 
 
