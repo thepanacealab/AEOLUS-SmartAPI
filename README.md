@@ -19,7 +19,7 @@ Documentation (temporary location):
 ## Repository content
 
 * **AEOLUSsrsAPI-v2.0.json** Main JSON file with the smartAPI specification
-* **spring-server** This folder contains the Swagger generated Java/Spring server. Instructions on how to build and deploy the server are listed below. 
+* **server** This folder contains the Swagger generated Java/Spring server. Instructions on how to build and deploy the server are listed below. 
 
 ## Important
 The API server is programmed to connect to AEOLUS schemas, therefore connection to AEOLUS database is necessary for the API methods to return results. The AEOLUS data files can be downloaded from [Dryad](http://datadryad.org/resource/doi:10.5061/dryad.8q0s4)
