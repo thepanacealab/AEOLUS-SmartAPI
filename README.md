@@ -42,6 +42,6 @@ To run:
 mvn spring-boot:run
 ```
 
-The swagger-ui can then be accessed from http://localhost:8080
+The swagger-ui can then be accessed from http://ec2-34-201-242-178.compute-1.amazonaws.com:8080
 
 
