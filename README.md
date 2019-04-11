@@ -18,7 +18,7 @@ Documentation (temporary location):
 
 ## Repository content
 
-* **AEOLUSsrsAPI-v2.0.json** Main JSON file with the smartAPI specification
+* **AEOLUSsmartAPI.json** Main JSON file with the smartAPI specification
 * **server** This folder contains the Swagger generated Java/Spring server. Instructions on how to build and deploy the server are listed below. 
 
 ## Important
